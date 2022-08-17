@@ -1,0 +1,11 @@
+{
+  "name": "curso-practicojs",
+  "version": "1.0.0",
+  "description": "Curso practico de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antony Rodriguez <antonyrodgz4@gmail.com>",
+  "license": "MIT"
+}
